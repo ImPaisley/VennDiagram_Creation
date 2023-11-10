@@ -7,7 +7,7 @@
 
 ## Code I used in my thesis but modified it with some new features
 
-#Setting Working directory and Seed and loading packages
+#Setting Working directory and Seed
 setwd("insert path to folder containing the data files")
 set.seed(1998) # choose a number to ensure you get the same results each time you run the code
 
